@@ -1,0 +1,866 @@
+{
+  "49ers-collective": {
+    "source": "49ers-collective.png",
+    "trimmed_px": [
+      2665,
+      770
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 241,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 290,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          520
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "baltimore-collective": {
+    "source": "baltimore-collective.png",
+    "trimmed_px": [
+      2774,
+      691
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 251,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 302,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          448
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "bucs-collective": {
+    "source": "bucs-collective.png",
+    "trimmed_px": [
+      2654,
+      803
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 240,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 289,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          544
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "buffalo-collective": {
+    "source": "buffalo-collective.png",
+    "trimmed_px": [
+      2783,
+      777
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 252,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 303,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          502
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "chiefs-collective": {
+    "source": "chiefs-collective.png",
+    "trimmed_px": [
+      2669,
+      766
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 242,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 291,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          516
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "cowboys-collective": {
+    "source": "cowboys-collective.png",
+    "trimmed_px": [
+      3000,
+      805
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 272,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 327,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          483
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "dodgers-collective": {
+    "source": "dodgers-collective.png",
+    "trimmed_px": [
+      2791,
+      753
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 253,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 304,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          485
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "dolphins-collective": {
+    "source": "dolphins-collective.png",
+    "trimmed_px": [
+      2999,
+      805
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 272,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 327,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          483
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "eagles-collective": {
+    "source": "eagles-collective.png",
+    "trimmed_px": [
+      2669,
+      766
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 242,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 291,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          516
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "gators-summit": {
+    "source": "gators-summit.png",
+    "trimmed_px": [
+      2456,
+      867
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 222,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 268,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          635
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "giants-collective": {
+    "source": "giants-collective.png",
+    "trimmed_px": [
+      2997,
+      860
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 271,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 326,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          516
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "heat-collective": {
+    "source": "heat-collective.png",
+    "trimmed_px": [
+      2669,
+      766
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 242,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 291,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          516
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "huskers-summit": {
+    "source": "huskers-summit.png",
+    "trimmed_px": [
+      2569,
+      860
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 233,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 280,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          602
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "jets-collective": {
+    "source": "jets-collective.png",
+    "trimmed_px": [
+      2669,
+      792
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 242,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 291,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          534
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "lakers-collective": {
+    "source": "lakers-collective.png",
+    "trimmed_px": [
+      2993,
+      864
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 271,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 326,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          519
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "lions-collective": {
+    "source": "lions-collective.png",
+    "trimmed_px": [
+      2669,
+      807
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 242,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 291,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          544
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "padres-collective": {
+    "source": "padres-collective.png",
+    "trimmed_px": [
+      2994,
+      856
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 271,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 326,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          514
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "panthers-collective": {
+    "source": "panthers-collective.png",
+    "trimmed_px": [
+      2760,
+      710
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 250,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 301,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          463
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "raiders-collective": {
+    "source": "raiders-collective.png",
+    "trimmed_px": [
+      2994,
+      842
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 271,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 326,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          506
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "rockets-collective": {
+    "source": "rockets-collective.png",
+    "trimmed_px": [
+      2753,
+      769
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 249,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 300,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          502
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "seahawks-collective": {
+    "source": "seahawks-collective.png",
+    "trimmed_px": [
+      2997,
+      765
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 271,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 326,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          459
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "sixers-collective": {
+    "source": "sixers-collective.png",
+    "trimmed_px": [
+      2669,
+      807
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 242,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 291,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          544
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "steelers-collective": {
+    "source": "steelers-collective.png",
+    "trimmed_px": [
+      2785,
+      732
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 252,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 303,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          473
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "texans-collective": {
+    "source": "texans-collective.png",
+    "trimmed_px": [
+      2999,
+      878
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 272,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 327,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          526
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "thunder-collective": {
+    "source": "thunder-collective.png",
+    "trimmed_px": [
+      2776,
+      754
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 251,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 302,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          488
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "vikings-collective": {
+    "source": "vikings-collective.png",
+    "trimmed_px": [
+      2938,
+      870
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 266,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 320,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          533
+        ],
+        "status": "OK"
+      }
+    }
+  },
+  "wolves-collective": {
+    "source": "wolves-collective.png",
+    "trimmed_px": [
+      2730,
+      754
+    ],
+    "outputs": {
+      "tee_front": {
+        "px": [
+          1800,
+          2400
+        ],
+        "effective_dpi": 247,
+        "status": "OK"
+      },
+      "mug_wrap": {
+        "px": [
+          2295,
+          945
+        ],
+        "effective_dpi": 297,
+        "status": "OK"
+      },
+      "hat_front": {
+        "px": [
+          1800,
+          497
+        ],
+        "status": "OK"
+      }
+    }
+  }
+}
